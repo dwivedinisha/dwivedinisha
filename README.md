@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nisha Dwivedi</h1>
+<h3 align="center">Full-Stack Developer | AI & Cloud Enthusiast</h3>
 
-<!--
-**dwivedinisha/dwivedinisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Building scalable AI-driven and cloud-native applications  
+- 🌱 Exploring Machine Learning, System Design & Cloud Architecture  
+- 🧠 Interested in Computer Vision & Intelligent Verification Systems  
+- 💬 Ask me about Full-Stack, Firebase, GCP, AI/ML  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### 👩‍💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### ⚙ Backend & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,gcp,aws" />
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dwivedinisha&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dwivedinisha&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedinisha&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 Achievements
+- 🥇 Winner – TechSprint (GDG KIET)  
+- 🌍 Google Solution Challenge – Top 10 Team  
+- ☁ AWS Certified Cloud Practitioner (CLF-C02)  
+- 🌱 Open Source Contributor – GSSoC, IWOC  
+
+---
+
+## 📫 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/nisha-dwivedi-827545328/">
+LinkedIn
+</a> |
+<a href="mailto:dwivedinisha248@gmail.com">
+Email
+</a>
+</p>
