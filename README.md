@@ -53,7 +53,7 @@
 
 ## 🏆 Achievements
 - 🥇 Winner – TechSprint (GDG KIET)  
-- 🌍 Google Solution Challenge – Top 10 Team  
+- 🌍 Google Solution Challenge 
 - ☁ AWS Certified Cloud Practitioner (CLF-C02)  
 - 🌱 Open Source Contributor – GSSoC, IWOC  
 
