@@ -55,7 +55,7 @@
 - 🥇 Winner – TechSprint (GDG KIET)  
 - 🌍 Google Solution Challenge 
 - ☁ AWS Certified Cloud Practitioner (CLF-C02)  
-- 🌱 Open Source Contributor – GSSoC, IWOC  
+- 🌱 Open Source Contributor – GSSoC, IWOC, OSCI  
 
 ---
 
